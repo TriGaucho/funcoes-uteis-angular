@@ -1,0 +1,131 @@
+
+    [
+    {
+			"nomecartao":"Plataforma Digital",
+			"nomesistema":"Tableau",
+			"nomerelatorio":"Indicadores Gerais",
+			"url":"https://tableau.sicredi.com.br/views/Organizacional-IndicadoresPlataforma/IndicadoresGerais?:iid=1?:linktarget=_blank&:embed=yes#1"
+
+	  },
+	  {
+		"nomecartao":"Plataforma Digital",
+		"nomesistema":"Tableau",
+		"nomerelatorio":"Perfil",
+		"url":"https://tableau.sicredi.com.br/views/Organizacional-IndicadoresPlataforma/Perfil?%3Aiid=1%3F%3Alinktarget&%3Aembed=yes#1"
+	  },
+	  {
+		"nomecartao":"Plataforma Digital",
+		"nomesistema":"Tableau",
+		"nomerelatorio":"Crédito",
+		"url":"https://tableau.sicredi.com.br/views/Organizacional-IndicadoresPlataforma/Crdito?%3Aiid=1%3F%3Alinktarget&%3Aembed=yes#1"
+	  },
+	  {
+		"nomecartao":"Plataforma Digital",
+		"nomesistema":"Tableau",
+		"nomerelatorio":"Poupança",
+		"url":"https://tableau.sicredi.com.br/views/Organizacional-IndicadoresPlataforma/Poupana?%3Aiid=1%3F%3Alinktarget&%3Aembed=yes#1"
+	  },
+	  {
+		"nomecartao":"Plataforma Digital",
+		"nomesistema":"Tableau",
+		"nomerelatorio":"Evasão Poupança",
+		"url":"https://tableau.sicredi.com.br/views/Organizacional-IndicadoresPlataforma/EvasoPoupana?%3Aiid=1%3F%3Alinktarget&%3Aembed=yes#1"
+	  },
+	  {
+		"nomecartao":"Plataforma Digital",
+		"nomesistema":"Tableau",
+		"nomerelatorio":"Relatório Operacional",
+		"url":"https://tableau.sicredi.com.br/views/VisesOperacionais_0/ListasparaDownload?:iid=2%3F:linktarget%3D_blank&:embed=yes#1"
+	  },
+	  {
+		"nomecartao":"Produtos e Serviços",
+		"nomesistema":"SAS",
+		"nomerelatorio":"Acompanhamento Diário do Crédito",
+		"url":"https://sasva.sicredi.com.br/SASVisualAnalytics/report?location=%2FCREDITO%20-%20SICREDI%2FDetalhados%2FConcessao%20-%20Iniciacao%20e%20Manutencao%2FAcompanhamento%20Di%C3%A1rio%20de%20Cr%C3%A9dito&type=Report.BI&section=vi824132"
+	  },
+	  {
+		"nomecartao":"Produtos e Serviços",
+		"nomesistema":"SAS",
+		"nomerelatorio":"Portifólio",
+		"url":"https://sasva.sicredi.com.br/SASVisualAnalytics/report?location=%2FCREDITO%20-%20SICREDI%2FExecutivos%2FPortf%C3%B3lio&type=Report.BI&section=vi18590"
+	  },
+	  {
+		"nomecartao":"Estratégico",
+		"nomesistema":"Analyzer",
+		"nomerelatorio":"Aspirações Estratégicas",
+		"url":"https://pfc.sicredi.com.br/workspace/?layout=full&repository_uuid=0000015477f7a58f-0000-0000-ac198847&module=tools.relatedcontent"
+	}, 
+	{
+		"nomecartao":"Estratégico",
+		"nomesistema":"Analyzer",
+		"nomerelatorio":"Temas Estratégicos",
+		"url":"https://pfc.sicredi.com.br/workspace/?layout=full&repository_uuid=000001558428b0cf-0000-0000-ac198846&module=tools.relatedcontent"
+	},
+	{
+		"nomecartao":"Estratégico",
+		"nomesistema":"Analyzer",
+		"nomerelatorio":"Indicadores de Eficiência - Detalhamento",
+		"url":"https://pfc.sicredi.com.br/workspace/?layout=full&repository_uuid=0000013977d11901-0000-0000-ac156610&module=tools.relatedcontent"
+	},
+	{
+		"nomecartao":"Estratégico",
+		"nomesistema":"Analyzer",
+		"nomerelatorio":"Indicadores de Eficiência - Dashboard",
+		"url":"https://pfc.sicredi.com.br/workspace/?layout=full&repository_uuid=0000013977d11e7f-0000-0000-ac156610&module=tools.relatedcontent"
+	},
+	{
+		"nomecartao":"Estratégico",
+		"nomesistema":"Tableau",
+		"nomerelatorio":"Visão Direx",
+		"url":"https://tableau.sicredi.com.br/#/views/VisoDIREX_1/CardsFinanas?:iid=1?:linktarget=_blank&:embed=yes"
+	},
+	{
+		"nomecartao":"Estratégico",
+		"nomesistema":"Tableau",
+		"nomerelatorio":"Aspirações Estratégicas",
+		"url":"https://tableau.sicredi.com.br/#/views/PlanejamentoEstratgico_0/AspiraesEstratgicas?:iid=1?:linktarget=_blank&:embed=yes"
+	},
+	{
+		"nomecartao":"Estratégico",
+		"nomesistema":"Tableau",
+		"nomerelatorio":"Temas Estratégicos",
+		"url":"https://tableau.sicredi.com.br/#/views/PlanejamentoEstratgico_0/TemasEstratgicos?:iid=1?:linktarget=_blank&:embed=yes"
+	},
+	{
+		"nomecartao":"Estratégico",
+		"nomesistema":"Tableau",
+		"nomerelatorio":"RAS - Singulares",
+		"url":"https://tableau.sicredi.com.br/views/RelatriodeIndicadoresdaRAS_0/VisoGeralCooperativa?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no"
+	},
+	{
+		"nomecartao":"Negócio",
+		"nomesistema":"Tableau",
+		"nomerelatorio":"CRA",
+		"url":"https://tableau.sicredi.com.br/#/views/CRA/Inicial?:iid=1?:linktarget=_blank&:embed=yes"
+	},
+	{
+		"nomecartao":"Negócio",
+		"nomesistema":"Tableau",
+		"nomerelatorio":"CRA",
+		"url":"https://tableau.sicredi.com.br/#/views/CRA/Inicial?:iid=1?:linktarget=_blank&:embed=yes"
+	},
+	{
+		"nomecartao":"Negócio",
+		"nomesistema":"Tableau",
+		"nomerelatorio":"Giro de Carteira",
+		"url":"https://tableau.sicredi.com.br/#/views/GirodeCarteira_0/GirodeCarteira?:iid=1?:linktarget=_blank&:embed=yes"
+	},
+	
+	{
+		"nomecartao":"Negócio",
+		"nomesistema":"Tableau",
+		"nomerelatorio":"Relacionamento",
+		"url":"https://tableau.sicredi.com.br/#/views/Relacionamento_0/Inicial?:iid=2?:linktarget=_blank&:embed=yes"
+	},
+	{
+		"nomecartao":"Negócio",
+		"nomesistema":"Tableau",
+		"nomerelatorio":"Metas",
+		"url":"https://tableau.sicredi.com.br/#/views/Metas-CRM/MetasporCarteira?:iid=3?:linktarget=_blank&:embed=yes"
+	}
+    ]
